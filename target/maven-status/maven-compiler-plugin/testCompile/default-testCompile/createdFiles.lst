@@ -1,0 +1,3 @@
+sg\com\ctc\features\WhenUserAccessPage.class
+sg\com\ctc\pages\HomePage.class
+sg\com\ctc\steps\AccessSteps.class
